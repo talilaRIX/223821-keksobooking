@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Tatiana Karlin](https://up.htmlacademy.ru/javascript/15/user/223821).
-* Наставник: `Неизвестно`.
+* Наставник: `Bez nastavnika`.
 
 ---
 
